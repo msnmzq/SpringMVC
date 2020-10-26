@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/j'son复习" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc实现文件上传" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc快速入门" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc文件上传" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc的数据响应" />
+    <file type="web" url="file://$PROJECT_DIR$/springmvc集成web环境" />
+    <file type="web" url="file://$PROJECT_DIR$/videoTimes" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springmvc快速入门/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc集成web环境/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc的数据响应/pom.xml" />
+        <option value="$PROJECT_DIR$/videoTimes/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc文件上传/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springmvc的数据响应/json复习/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="false" />
+</project>

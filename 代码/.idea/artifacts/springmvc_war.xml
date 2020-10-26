@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springmvc快速入门:war">
+    <output-path>$PROJECT_DIR$/springmvc快速入门/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>springmvc快速入门</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="springmvc快速入门.war">
+      <element id="artifact" artifact-name="springmvc快速入门:war exploded" />
+    </root>
+  </artifact>
+</component>

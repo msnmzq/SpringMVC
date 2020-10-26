@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springmvc集成web环境" />
+        <module name="springmvc快速入门" />
+        <module name="springmvc文件上传" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="j'son复习" target="1.5" />
+      <module name="json复习" target="1.7" />
+      <module name="springmvc实现文件上传" target="1.7" />
+      <module name="springmvc快速入门" target="1.7" />
+      <module name="springmvc文件上传" target="1.7" />
+      <module name="springmvc的数据响应" target="1.7" />
+      <module name="springmvc集成web环境" target="1.7" />
+      <module name="videoTimes" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

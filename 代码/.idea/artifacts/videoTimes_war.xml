@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="videoTimes:war">
+    <output-path>$PROJECT_DIR$/videoTimes/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>videoTimes</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="videoTimes.war">
+      <element id="artifact" artifact-name="videoTimes:war exploded" />
+    </root>
+  </artifact>
+</component>

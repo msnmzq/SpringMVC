@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringMVC.iml" filepath="$PROJECT_DIR$/.idea/SpringMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc快速入门/springmvc快速入门.iml" filepath="$PROJECT_DIR$/springmvc快速入门/springmvc快速入门.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc文件上传/springmvc文件上传.iml" filepath="$PROJECT_DIR$/springmvc文件上传/springmvc文件上传.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc的数据响应/springmvc的数据响应.iml" filepath="$PROJECT_DIR$/springmvc的数据响应/springmvc的数据响应.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvc集成web环境/springmvc集成web环境.iml" filepath="$PROJECT_DIR$/springmvc集成web环境/springmvc集成web环境.iml" />
+    </modules>
+  </component>
+</project>

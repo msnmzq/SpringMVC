@@ -1,0 +1,5 @@
+目前，springmvc学习了：
+	如何使用spring进行web项目的编写
+	springmvc:我们编写jsp页面后，所有的servlet的内容不用编写，而是通过配置文件和springmvc的API进行代替。
+		页面跳转
+		回写数据：主要是json
